@@ -1,3 +1,3 @@
-# Topic_Modeling
+# Topic Modeling using LDA and LSA apply to Bag Of Words and TF-IDF
 
-<img src = 'https://github.com/khasaad/Natural_Language_Processing_for_sentiment_analysis/blob/main/images/logo.PNG'>
+<img src = ''>
