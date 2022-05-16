@@ -2,6 +2,7 @@
 
 <img src = 'https://github.com/khasaad/Topic_Modeling/blob/main/Data/Topic_modeling.png'>
 <p>Resource :<a href="https://miro.medium.com/max/1178/1*yj5ePlbmH-kp5Erj9kRFOA.png">medium</a></p> 
+
 # Key words: 
 
 NLP (Natural Language Processing), LDA, LSA, BOW, TF-IDF, PyTorch, Neural Network, Python.
