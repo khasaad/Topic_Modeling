@@ -1,7 +1,7 @@
 # Topic Modeling using LDA and LSA apply to BOW and TF-IDF
 
 <img src = 'https://github.com/khasaad/Topic_Modeling/blob/main/Data/Topic_modeling.png'>
-<p style = "position:relative; left:80px; top:2px; background-color:yellow;">Resource :<a href="https://miro.medium.com/max/1178/1*yj5ePlbmH-kp5Erj9kRFOA.png">medium</a></p> 
+                              <p>Resource :<a href="https://miro.medium.com/max/1178/1*yj5ePlbmH-kp5Erj9kRFOA.png">medium</a></p> 
 
 # Key words: 
 
